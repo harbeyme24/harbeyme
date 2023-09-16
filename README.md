@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harbey M. Edroso</h1>
 <h3 align="center">A passionate web developer, graphic designer, software engineer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://www.canva.com/
-https://export-download.canva.com/OPAyA/DAFunkOPAyA/6/0/0001-279626278851187765.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230916T112417Z&X-Amz-Expires=17281&X-Amz-Signature=7fce549f48a16b22d0341bf6a8e795f123c3dc8bf26db11273d9dadc1a09692f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27github.png&response-expires=Sat%2C%2016%20Sep%202023%2016%3A12%3A18%20GMT">
+<img src="github.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harbeyme24&label=Profile%20views&color=0e75b6&style=flat" alt="harbeyme24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harbeyme24" alt="harbeyme24" /></a> </p>
